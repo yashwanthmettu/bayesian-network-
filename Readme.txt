@@ -1,7 +1,3 @@
-Name: Yashwanth Mettu
-UTA ID: 1002152835
-
-
 Programming Language: Python
 
 Structure of the code:
